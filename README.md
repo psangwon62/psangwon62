@@ -4,10 +4,9 @@
 <p align="center"><a href="https://developeracademy.postech.ac.kr" align="center"> Apple Developer Academy @POSTECH</a> 2nd (2023.03~)</p>
 <p align="center">KyoungPook National University, Electronic Engineering (2018.03 ~)</p>
 
-<br>
 <h3 align="center">🏆 Awards 🏆</h3>
 <p align="center">제 10회 대한민국 SW융합 해커톤 | 팀 FinlandSauna, 우수상(2023.08) </p>
-<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138" alt="" />
@@ -16,7 +15,7 @@
   <img src="https://img.shields.io/badge/Kotlin-snow?logo=kotlin&logoColor=7F52FF" alt="" />
   <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
 </p>
-<br>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Xcode-snow?logo=xcode" alt="" />
@@ -26,7 +25,7 @@
   <img src="https://img.shields.io/badge/Sketch-snow?logo=sketch" alt="" />
   <img src="https://img.shields.io/badge/git-snow?logo=git&logoColor=0175C2" alt="" />
 </p>
-<br>
+
 <h3 align="center">📫 Blog 📫</h3>
 <p align="center">
   <a href="https://velog.io/@sw1123" style = "text-decoration: none;">

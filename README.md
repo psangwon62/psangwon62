@@ -5,7 +5,7 @@
 <p align="center">KyoungPook National University, Electronic Engineering (2018.03 ~)</p>
 
 <h3 align="center">🏆 Awards 🏆</h3>
-<p align="center">제 10회 대한민국 SW융합 해커톤 | 팀 FinlandSauna, 우수상(2023.08) </p>
+<p align="center">제 10회 대한민국 SW융합 해커톤 | 팀 팜팜, 우수상(2023.08) </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">

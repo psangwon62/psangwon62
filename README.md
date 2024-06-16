@@ -1,7 +1,7 @@
 <h1 align="center"> Sangwon Park </h1>
 
 <h3 align="center">🏫 Education 🏫</h3>
-<p align="center"><a href="https://developeracademy.postech.ac.kr" align="center"> Apple Developer Academy @POSTECH</a> 2nd (2023.03~)</p>
+<p align="center"><a href="https://developeracademy.postech.ac.kr" align="center"> Apple Developer Academy @POSTECH</a> 2nd (2023.03~2023.12)</p>
 <p align="center">KyoungPook National University, Electronic Engineering (2018.03 ~)</p>
 
 <h3 align="center">🏆 Awards 🏆</h3>

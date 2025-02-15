@@ -37,3 +37,8 @@
     <img src="https://img.shields.io/badge/Tistory-F05138?style=for-the-badge&logo=tistory"/>
   </a>
 </p>
+<h3 align="center">🔤 Language Certification 🔤</h3>
+<p align="center">
+  TOEIC Speaking, AH(200)<br>
+  TOEIC, 945
+</p>
